@@ -10,7 +10,7 @@ const Servery = (props) =>  {
             </div>
             <h3>Review: {props.review}</h3>
             <div>
-                <ul>
+                <ul class="description">
                 {props.text.map(description => <li>{description}</li>)}
                 </ul>
             </div>
