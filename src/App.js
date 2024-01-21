@@ -29,7 +29,7 @@ function App() {
       "review": "4/10", 
       "image": "https://cdnassets.hw.net/dims4/GG/bfb60fa/2147483647/thumbnail/300x200%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2F50%2Fcf%2F06be80534e81b7aaf42214b26293%2F08017-00-n3.jpg",
       "menu": "https://dining.rice.edu/seibel-servery",
-      "text": ["Stirfy station", "Bad", "'Do not go' - professional chef", "Seibel food poisoning"]
+      "text": ["Stirfry station", "Bad", "'Do not go' - professional chef", "Seibel food poisoning"]
     }, 
     
     {
